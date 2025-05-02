@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
-import LifecycleEx from './components/R010ClassPrototype';
+import LifecycleEx from './components/R011ArrowFunction';
 
 function App() {
   return (
