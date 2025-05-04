@@ -1,14 +1,13 @@
 // import logo from './logo.svg';
 import './App.css';
-import LifecycleEx from './components/R011ArrowFunction';
+import Comp from './components/R013Map';
 
 function App() {
   return (
     <div>
       <h1>Start React 200!</h1>
       <p>HTML 적용하기</p>
-      <LifecycleEx props_value = 'FromApp.js'/>
-      {/* LifecycleEx 로 props_value 변수전달 */}
+      <Comp/>
     </div>
   );
 }
