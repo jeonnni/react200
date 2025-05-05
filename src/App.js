@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
-import Comp from './components/R013Map';
+import Comp from './components/R013Jquery';
 
 function App() {
   return (
