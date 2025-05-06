@@ -26,7 +26,7 @@ class R013Map extends Component {
             console.log(`${i+3}, obj : ${JSON.stringify(obj)}`);
 
             //return 으로 반환값을 받을 수 있음
-            // return obj
+            return obj
         });
         //return 으로 반환값을 받을 수 있음 -> 안하면 '5. mapObj : [null,null]' 출력
        console.log(`5. mapObj : ${JSON.stringify(mapObj)}`);
