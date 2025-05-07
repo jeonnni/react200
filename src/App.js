@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
-import ForceUpdate from './components/R023ForceUpdate.js';
+import ForceUpdate from './components/R025PureComponenet.js';
 
 function App() {
   return (
