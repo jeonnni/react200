@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
-import Map from './components/R030Map.js';
+import Map from './components/R031ReactstrapAlerts.js';
 
 function App() {
   return (
