@@ -1,4 +1,4 @@
-import { Component, PureComponent } from "react";
+import { PureComponent } from "react";
 
 /**
  * class형 컴포넌트에는 Component 와 PureComponent가 있다
